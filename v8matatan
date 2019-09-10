@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am coinmovement on github.
+  * I am v8matatan (https://keybase.io/v8matatan) on keybase.
+  * I have a public key ASAH6ICrZwOAdjJRHbrGNhggNLFF8OhdI1H6QYPYR3P_Gwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120588947a9fe734057cff2136daf810055381c897cf9d50606244d34b5b90cdb2e0a",
+      "host": "keybase.io",
+      "kid": "012007e880ab6703807632511dbac636182034b145f0e85d2351fa4183d84773ff1b0a",
+      "uid": "d137096ac25b5c95c014433e3c785d19",
+      "username": "v8matatan"
+    },
+    "merkle_root": {
+      "ctime": 1568143334,
+      "hash": "001ddd31e3324434baf1539cd8f9c0514e03a7f4c8e2901ee8f5b0f5a37687e70503abac4fec66c4ee8b263fabdbc847307dd097d2d5cb276049f55cd2efc821",
+      "hash_meta": "1f7ee6ecf4a5d537fc61a3c860556a156cc4a0a91cbced60ad3197e306cacbb3",
+      "seqno": 6501905
+    },
+    "service": {
+      "entropy": "vVzpUBr6L9fD5BrkbdTeDf88",
+      "name": "github",
+      "username": "coinmovement"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568143349,
+  "expire_in": 504576000,
+  "prev": "781c550c23ac15d2edbc868615fd1cccc01b643a290565f909a4b22e7b4a11a8",
+  "seqno": 11,
+  "tag": "signature"
+}
+```
+
+with the key [ASAH6ICrZwOAdjJRHbrGNhggNLFF8OhdI1H6QYPYR3P_Gwo](https://keybase.io/v8matatan), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgB+iAq2cDgHYyUR26xjYYIDSxRfDoXSNR+kGD2Edz/xsKp3BheWxvYWTESpcCC8QgeBxVDCOsFdLtvIaGFf0czMAbZDopBWX5CaSyLntKEajEIGD1QT1U2sS/zycHerBANUxu8HO0dAgno4HIWYnVUsD0AgHCo3NpZ8RAaw4H9TOxKJUksiQq07+vaX2dsXrFpaGrxhzABctH7ExLbS9nOSQm+vwh5ApWaJtG+Tnz5Wk6bNRXM1eTGL3jBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMlvme5UR3b/ndQwSB+6Wi6C1dcbbTHAFM7G3CIt5e0yo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/v8matatan
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id v8matatan
+```
